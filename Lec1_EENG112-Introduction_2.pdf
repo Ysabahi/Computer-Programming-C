@@ -1,6 +1,6 @@
 # Clone your repository (if you haven't already)
 git clone https://github.com/Ysabahi/Computer-Programming-C.git
-cd E:/uni/CP/material/final materials
+cd E:/uni/CP/material/final materials/
 
 # Replace the file with your new version
 # Copy your new file to the repository folder, overwriting the old one
@@ -16,3 +16,4 @@ git commit -m "Replace Lec1_EENG112-Introduction_2.pdf.pdf with updated version"
 
 # Push to GitHub
 git push origin main
+
