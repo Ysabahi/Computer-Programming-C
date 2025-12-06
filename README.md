@@ -8,3 +8,6 @@ You can download the Code::Blocks IDE from the following link:
 for online compiling
 
 [online compiler](https://www.onlinegdb.com/online_c_compiler/)
+
+for solutions (C-codes)
+[Book solutions](https://github.com/lbraglia/chtp/tree/master/)
